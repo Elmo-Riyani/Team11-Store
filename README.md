@@ -45,4 +45,3 @@ elmotasembel@team11store.com - getAll to show all product - 200 - PASSED
 This project is student work for demonstration of web development skills only.
 
 Live preview: http://localhost:3000
-Public link:  https://thriving-startup-hemlock.ngrok-free.dev/api/products
