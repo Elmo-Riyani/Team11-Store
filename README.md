@@ -39,7 +39,7 @@ The automated test output displays results in this format:
 
 adam@team11store.com - getAll to show all product - 200 - PASSED  
 ricardo@team11store.com - getAll to show all product - 200 - PASSED  
-elmotasembel@team11store.com - getAll to show all product - 200 - PASSED
+elmotasembella@team11store.com - getAll to show all product - 200 - PASSED
 
 ## Disclaimer
 This project is student work for demonstration of web development skills only.
