@@ -15,7 +15,7 @@ Team 11 Store is a full stack e-commerce product module built with Node.js, Expr
 - Update a product
 - Delete a product
 - Automated testing using Jest and Supertest
-- automate.js to run test scripts
+- automate.js to run test scripts sequentially
 
 ## Technologies Used
 - Node.js
@@ -40,6 +40,11 @@ The automated test output displays results in this format:
 adam@team11store.com - getAll to show all product - 200 - PASSED  
 ricardo@team11store.com - getAll to show all product - 200 - PASSED  
 elmotasembella@team11store.com - getAll to show all product - 200 - PASSED
+
+## Running The Project
+- Start the app with `npm start`
+- Run the Jest suite with `npm test`
+- Run the sequential automation test runner with `node automate.js`
 
 ## Disclaimer
 This project is student work for demonstration of web development skills only.
